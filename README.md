@@ -12,14 +12,6 @@
 
 ---
 
-## about / について
-
-`hamutataf5si-dev` は、
-**「hamutata」** のWebサイトや、そのまわりのものをつくったり、育てたりするためのGitアカウントです。
-
-**`hamutataf5si-dev` is a Git account for building and growing the website and projects surrounding *hamutata*.**
-
----
 
 ## hamutata
 
