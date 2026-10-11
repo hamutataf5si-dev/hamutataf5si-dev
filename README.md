@@ -1,17 +1,19 @@
 # hamutata
 
-**机の上のお勉強も、画面のなかのコードをいじってる時間も、ぜんぶ私のたいせつな日常。**
+**机の上のお勉強も、画面のなかのコードをいじっている時間も、ぜんぶ私のたいせつな日常。**
+
+**Whether I'm studying at my desk or tinkering with code on my screen, it is all part of my everyday life that I hold dear.**
+
 **すきなものたちに囲まれて、私らしい彩りで日々を紡ぐ学生です。**
 
-**Whether I'm studying at my desk or tinkering with code on a screen, it's all part of my precious everyday life.**
-**I'm a student, weaving my days in my own colors, surrounded by the things I love.**
+**I'm a student, weaving color into each day in my own way, surrounded by the things I love.**
 
-🌐 **Website:** 
+<br>
 
+🌐 **Website / ウェブサイト:**
 [hamutata.f5.si](https://hamutata.f5.si/)
 
 ---
-
 
 ## hamutata
 
@@ -21,12 +23,19 @@
 
 > Surrounded by the things I love,
 > doing what I enjoy,
-> and taking things slowly, in my own way.
+> and taking life slowly, in my own way.
+
+<br>
 
 `hamutata.f5.si` では、日々のことや制作物、
 コードを書いたり、試したりしながら生まれたものを置いています。
 
-**At `hamutata.f5.si`, I share things from my everyday life, my creations, and the things that come to life while I write and experiment with code.**
+<br>
+
+At [hamutata.f5.si](https://hamutata.f5.si/),
+I share little moments from my everyday life,
+my creations, and the things that come to life
+as I write code, experiment, and explore new ideas.
 
 ---
 
@@ -37,4 +46,5 @@
 ---
 
 *好奇心とコード、そして私の日常のほんの少しとともに。*
-*Made with curiosity, code, and a little bit of my everyday life.*
+
+*Made with curiosity, code, and little glimpses of my everyday life.*
